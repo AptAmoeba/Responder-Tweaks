@@ -1,3 +1,11 @@
+# (Note) Responder - AptAmoeba Fork
+Forked to track codebase changes I make for a research project I'm working on. Feel free to use this, although I don't recommend it.
+
+Changes introduced:
+- meep
+
+&nbsp;
+
 # Responder/MultiRelay #
 
 IPv6/IPv4 LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay.
